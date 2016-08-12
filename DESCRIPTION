@@ -1,0 +1,18 @@
+Package: neutRino
+Title: What The Package Does
+Version: 0.1
+Authors@R: person("First", "Last", email = "first.last@example.com",
+                  role = c("aut", "cre"))
+Description: Tool-box for simulation, data handling and statistical (oscillation) analysis in neutrino physics. You can find tutorial scripts in the directory "examples" and data-files in the directory "data" (path: system.file(package="neutRino"))
+Depends: R (>= 3.1.0)
+License: GPL-2
+LazyData: false
+Imports:
+  compiler,
+  ggplot2,
+  plyr,
+  weights,
+  fields,
+  parallel,
+  doParallel,
+  foreach

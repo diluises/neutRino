@@ -1,0 +1,3 @@
+  param        unit       value     error      error_l    error_r      type
+"sin2_ee"     " "          1         0.0        0.0       0.0          " "
+"dm2_41"     "eV^2/c^4"    2         0.0        0.0       0.0          " "

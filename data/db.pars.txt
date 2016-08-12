@@ -1,0 +1,9 @@
+param           unit         value
+"rho"           "g/cm^3"      2.6
+"A0"            " "           7.56e-5
+"Eb"            "MeV"         27.0
+"mass_ele"      "MeV/c^2"     0.51
+"mass_muon"     "MeV/c^2"     105.6
+"mass_proton"   "MeV/c^2"     938.27
+"mass_neutron"  "MeV/c^2"     939.57
+
